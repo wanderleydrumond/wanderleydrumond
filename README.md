@@ -1,4 +1,4 @@
-## Hello, step up. Want some :coffee:?
+## Hello, step up. Want some ![java-logo-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/33a2497d-d78b-4c25-a33b-a00dfe07d90a)?
 
 # Fullstack developer
 
