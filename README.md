@@ -2,7 +2,7 @@
 
 # Fullstack developer
 
-I love complicated relanshionships (mysql logo)
+I love complicated relanshionships  ![mysql-logo](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/67139aee-e845-45f1-91ad-d6ec76b9fdcc)
 
 ### About me
 
