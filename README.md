@@ -2,7 +2,7 @@
 
 # Fullstack developer
 
-I love complicated relanshionships ![mysql-logo-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/82417996-70ca-4ee1-b6fa-b0587d34a30a)
+I love complicated relantionships ![mysql-logo-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/82417996-70ca-4ee1-b6fa-b0587d34a30a)
 
 
 ### About me
@@ -12,7 +12,7 @@ I love complicated relanshionships ![mysql-logo-sm](https://github.com/wanderley
 
 ### Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderleydrumond&layout=compact&theme=dracula)](https://github.com/wanderleydrumond/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderleydrumond&layout=pie&theme=dracula)](https://github.com/wanderleydrumond/github-readme-stats)
 [![Drumond's stats](https://github-readme-stats.vercel.app/api/wanderleydrumond?username=wanderleydrumond)](https://github.com/wanderleydrumond/github-readme-stats)
 
 <div dir="auto">
