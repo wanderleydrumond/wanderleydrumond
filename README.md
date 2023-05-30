@@ -43,7 +43,12 @@ I love complicated relantionships ![database-sm](https://github.com/wanderleydru
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderleydrumond&layout=pie&theme=dracula)](https://github.com/wanderleydrumond/github-readme-stats)
 [![wanderleydrumond GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderleydrumond&theme=dracula)](https://github.com/wanderleydrumond/github-readme-stats)
 
+#### Goals for this year
 
+- [ ] Dominate the world
+- [x] Learn another language
+- [x] Become a Fullstack
+- [ ] Be fit
 <!--
 **wanderleydrumond/wanderleydrumond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
