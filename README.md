@@ -2,12 +2,10 @@
 
 # Fullstack developer
 
-I love complicated relantionships ![mysql-logo-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/82417996-70ca-4ee1-b6fa-b0587d34a30a)
-
+I love complicated relantionships ![database-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/cf460568-def5-449b-9f38-53c5d13c539e)
 
 ### About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wanderleydrumond)](https://github.com/wanderleydrumond)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanderley-drumond-16693058/)](https://www.linkedin.com/in/wanderley-drumond-16693058/)
 
 ### Languages and Tools
@@ -43,7 +41,7 @@ I love complicated relantionships ![mysql-logo-sm](https://github.com/wanderleyd
 ### What I'm doing lately
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderleydrumond&layout=pie&theme=dracula)](https://github.com/wanderleydrumond/github-readme-stats)
-[![Drumond's stats](https://github-readme-stats.vercel.app/api/wanderleydrumond?username=wanderleydrumond)](https://github.com/wanderleydrumond/github-readme-stats)
+[![wanderleydrumond GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderleydrumond&theme=dracula)](https://github.com/wanderleydrumond/github-readme-stats)
 
 
 <!--
@@ -59,4 +57,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wanderleydrumond)](https://github.com/wanderleydrumond)
 -->
