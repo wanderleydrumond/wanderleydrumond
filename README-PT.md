@@ -2,6 +2,13 @@
 
 # Desebvolvedor Fullstack em formação
 
+<div align="right">
+![bandeira-reino-unido-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/29f1f07c-74a7-4f3d-a62d-f413c29d0c73)(https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README.md)
+  
+![bandeira-frança-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/63819102-581b-4669-8d27-4f8502a7a87a)(https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md)
+
+</div>
+
 Amo relacionamentos complicados ![database-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/cf460568-def5-449b-9f38-53c5d13c539e)
 
 ### Sobremim
