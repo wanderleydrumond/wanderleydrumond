@@ -1,14 +1,11 @@
 ## Olá, Chega mais. Quer um ![java-logo-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/33a2497d-d78b-4c25-a33b-a00dfe07d90a)?
 
-# Desebvolvedor Fullstack em formação
+# Desenvolvedor Fullstack em formação
 
 <div align="right">
-  
-![bandeira-reino-unido-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/96471722-cb0a-487b-a42c-9574a8c4a717)(https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md)
+<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README.md"><img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/96471722-cb0a-487b-a42c-9574a8c4a717" alt="Profile in english"></a>
 
-  
-![bandeira-frança-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/63819102-581b-4669-8d27-4f8502a7a87a)(https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md)
-
+<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md"><img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/63819102-581b-4669-8d27-4f8502a7a87a" alt="Profil en fraçais"></a>
 </div>
 
 Amo relacionamentos complicados ![database-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/cf460568-def5-449b-9f38-53c5d13c539e)
