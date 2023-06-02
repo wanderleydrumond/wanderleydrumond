@@ -2,6 +2,14 @@
 
 # Étudiant développeur fullstack
 
+<div align="right">
+
+![bandeira-brasil-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/37a6e386-c196-4a5f-8dcf-829b71b34945)(https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-PT.md)
+  
+![bandeira-reino-unido-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/96471722-cb0a-487b-a42c-9574a8c4a717)(https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md)
+
+</div>
+
 I love complicated relantionships ![database-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/cf460568-def5-449b-9f38-53c5d13c539e)
 
 ### Sur moi
