@@ -1,6 +1,14 @@
 ## Hello, step up. Want some ![java-logo-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/33a2497d-d78b-4c25-a33b-a00dfe07d90a)?
 
 # Fullstack developer student
+<div align="right">
+
+![bandeira-brasil-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/37a6e386-c196-4a5f-8dcf-829b71b34945)(https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-PT.md)
+  
+![bandeira-frança-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/63819102-581b-4669-8d27-4f8502a7a87a)(https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md)
+
+
+</div>
 
 I love complicated relantionships ![database-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/cf460568-def5-449b-9f38-53c5d13c539e)
 
