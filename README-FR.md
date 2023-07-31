@@ -6,7 +6,7 @@
 
 <a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-PT.md">
 <img src="https://knoow.net/wp-content/uploads/2019/02/bandeira-brasil.png.jpg" alt="Perfil em português" width="30" height="20">
-</a
+</a>
 
 <br>
 
