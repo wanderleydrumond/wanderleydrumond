@@ -3,9 +3,17 @@
 # Fullstack developer student
 
 <div align="right">
-<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README.md"><img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/37a6e386-c196-4a5f-8dcf-829b71b34945" alt="Perfil em português"></a>
 
-<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md"><img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/63819102-581b-4669-8d27-4f8502a7a87a" alt="Profil en français"></a>
+<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-PT.md">
+<img src="https://knoow.net/wp-content/uploads/2019/02/bandeira-brasil.png.jpg" alt="Perfil em português" width="30" height="20">
+</a>
+
+<br>
+
+<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md">
+<img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/11/bandeira-franca.jpg" alt="Profil en français" width="30" height="20">
+</a>
+
 </div>
 
 I love complicated relantionships ![database-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/cf460568-def5-449b-9f38-53c5d13c539e)
