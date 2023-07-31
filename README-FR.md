@@ -6,13 +6,14 @@
 
 <a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-PT.md">
 <img src="https://knoow.net/wp-content/uploads/2019/02/bandeira-brasil.png.jpg" alt="Perfil em português" width="30" height="20">
-</a>
+</a
 
 <br>
 
 <a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README.md">
-<img src="https://imagepng.org/wp-content/uploads/2017/08/bandeira-reino-unido-1.png" alt="Profile in english" width="30" height="20">
+<img src="https://media.istockphoto.com/id/90688809/pt/vetorial/bandeira-do-reino-unido-vector.jpg?s=1024x1024&w=is&k=20&c=id3amF20OMfGQSF6Edq2_kpdj8w3O11Yu9h5sHBWhSk=" alt="Profile in english" width="30" height="20">
 </a>
+
 </div>
 
 J'aime les relations compliquées ![database-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/cf460568-def5-449b-9f38-53c5d13c539e)
