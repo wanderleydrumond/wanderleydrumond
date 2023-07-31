@@ -58,7 +58,7 @@ Amo relacionamentos complicados ![database-sm](https://github.com/wanderleydrumo
 #### Objetitivos para este ano
 
 - [ ] Dominar o mundo
-- [x] Apronder outro idioma
+- [x] Aprender outro idioma
 - [x] Tornar-me fullstack
 - [ ] Ficar fininho
 <!--
