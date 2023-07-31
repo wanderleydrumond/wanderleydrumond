@@ -1,15 +1,12 @@
 ## Hello, step up. Want some ![java-logo-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/33a2497d-d78b-4c25-a33b-a00dfe07d90a)?
 
 # Fullstack developer student
+
 <div align="right">
-[![Perfil em português]<img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/37a6e386-c196-4a5f-8dcf-829b71b34945">](https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-PT.md)
-	
-[![Profil en français]<img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/63819102-581b-4669-8d27-4f8502a7a87a">](https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md)
+<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README.md"><img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/37a6e386-c196-4a5f-8dcf-829b71b34945" alt="Perfil em português"></a>
+
+<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md"><img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/63819102-581b-4669-8d27-4f8502a7a87a" alt="Profil en français"></a>
 </div>
-
-[<img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/37a6e386-c196-4a5f-8dcf-829b71b34945">](https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-PT.md)
-
-[![Foo](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/63819102-581b-4669-8d27-4f8502a7a87a)]([http://google.com.au/](https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-PT.md))
 
 I love complicated relantionships ![database-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/cf460568-def5-449b-9f38-53c5d13c539e)
 
