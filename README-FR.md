@@ -3,9 +3,16 @@
 # Étudiant développeur fullstack
 
 <div align="right">
-<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-PT.md"><img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/37a6e386-c196-4a5f-8dcf-829b71b34945" alt="Perfil em português"></a>
 
-<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README.md"><img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/96471722-cb0a-487b-a42c-9574a8c4a717" alt="Profile in english"></a>
+<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-PT.md">
+<img src="https://knoow.net/wp-content/uploads/2019/02/bandeira-brasil.png.jpg" alt="Perfil em português" width="30" height="20">
+</a>
+
+<br>
+
+<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README.md">
+<img src="https://imagepng.org/wp-content/uploads/2017/08/bandeira-reino-unido-1.png" alt="Profile in english" width="30" height="20">
+</a>
 </div>
 
 J'aime les relations compliquées ![database-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/cf460568-def5-449b-9f38-53c5d13c539e)
