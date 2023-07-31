@@ -7,6 +7,9 @@
 [![Profil en français]<img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/63819102-581b-4669-8d27-4f8502a7a87a">](https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md)
 </div>
 
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 I love complicated relantionships ![database-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/cf460568-def5-449b-9f38-53c5d13c539e)
 
 ### About me
