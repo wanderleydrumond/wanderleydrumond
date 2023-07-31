@@ -3,14 +3,20 @@
 # Desenvolvedor Fullstack em formação
 
 <div align="right">
-<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README.md"><img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/96471722-cb0a-487b-a42c-9574a8c4a717" alt="Profile in english"></a>
+<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README.md">
+<img src="https://media.istockphoto.com/id/90688809/pt/vetorial/bandeira-do-reino-unido-vector.jpg?s=1024x1024&w=is&k=20&c=id3amF20OMfGQSF6Edq2_kpdj8w3O11Yu9h5sHBWhSk=" alt="Profile in english" width="30" height="20">
+</a>
 
-<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md"><img src="https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/63819102-581b-4669-8d27-4f8502a7a87a" alt="Profil en fraçais"></a>
+<br>
+
+<a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-FR.md">
+<img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/11/bandeira-franca.jpg" alt="Profil en français" width="30" height="20">
+</a>
 </div>
 
 Amo relacionamentos complicados ![database-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/cf460568-def5-449b-9f38-53c5d13c539e)
 
-### Sobremim
+### Sobre mim
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanderley-drumond-16693058/)](https://www.linkedin.com/in/wanderley-drumond-16693058/)
 
