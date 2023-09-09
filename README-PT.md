@@ -1,6 +1,6 @@
 ## Olá, Chega mais. Quer um ![java-logo-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/33a2497d-d78b-4c25-a33b-a00dfe07d90a)?
 
-# Desenvolvedor Fullstack em formação
+# Desenvolvedor Fullstack
 
 <div align="right">
 <a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README.md">
