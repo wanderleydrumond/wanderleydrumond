@@ -1,6 +1,6 @@
 ## Bonjour, montez. Veux tu du ![java-logo-sm](https://github.com/wanderleydrumond/wanderleydrumond/assets/24917547/33a2497d-d78b-4c25-a33b-a00dfe07d90a)?
 
-# Étudiant développeur fullstack
+# Développeur fullstack
 
 <div align="right">
 
