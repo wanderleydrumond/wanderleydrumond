@@ -5,7 +5,7 @@
 <div align="right">
 
 <a href="https://github.com/wanderleydrumond/wanderleydrumond/blob/main/README-PT.md">
-<img src="https://knoow.net/wp-content/uploads/2019/02/bandeira-brasil.png.jpg" alt="Perfil em português" width="30" height="20">
+<img src="https://img.freepik.com/vetores-premium/bandeira-do-brasil-ilustracao-vetorial_514344-264.jpg?w=1060" alt="Perfil em português" width="30" height="20">
 </a>
 
 <br>
